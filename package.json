@@ -1,0 +1,19 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "Merge discontinuous time ranges within a threshold - SDE assignment",
+  "main": "module.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABhismart098/assigmentSalwan.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABhismart098/assigmentSalwan/issues"
+  },
+  "homepage": "https://github.com/ABhismart098/assigmentSalwan#readme"
+}
